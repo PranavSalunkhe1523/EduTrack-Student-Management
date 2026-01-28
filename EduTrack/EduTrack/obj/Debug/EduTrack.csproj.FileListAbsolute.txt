@@ -1,0 +1,7 @@
+D:\Users\Csharp\source\repos\EduTrack\EduTrack\bin\Debug\EduTrack.exe.config
+D:\Users\Csharp\source\repos\EduTrack\EduTrack\bin\Debug\EduTrack.exe
+D:\Users\Csharp\source\repos\EduTrack\EduTrack\bin\Debug\EduTrack.pdb
+D:\Users\Csharp\source\repos\EduTrack\EduTrack\obj\Debug\EduTrack.csproj.AssemblyReference.cache
+D:\Users\Csharp\source\repos\EduTrack\EduTrack\obj\Debug\EduTrack.csproj.CoreCompileInputs.cache
+D:\Users\Csharp\source\repos\EduTrack\EduTrack\obj\Debug\EduTrack.exe
+D:\Users\Csharp\source\repos\EduTrack\EduTrack\obj\Debug\EduTrack.pdb
